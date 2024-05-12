@@ -176,7 +176,7 @@ $time = new timeago();
 <div class="footer">
     <footer>
         <center>
-            <h2>Developed by Daniyal Ansari</h2><br>
+            <h2>Developed by Ubit students</h2><br>
             <a href="./contact.php">Contact Us</a>
         </center>
     </footer>

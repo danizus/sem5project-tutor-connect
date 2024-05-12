@@ -1,7 +1,17 @@
-# Online-Tutor-Finder-Project-PHP
+**group members**
+DANIYAL AHMED ANSARI
+MANAL AMIN 
+MUHAMMAD HAMMAD KAMAL 
+AREESHA ABDULLAH
+UMEMA BATOOL
+HANIA HUSSAIN 
+JURRY ABBAS
+TEHREEM KHURRAM 
+
+# Online-tutor-connect-Project-PHP
 The system of private tuition has been in existence in Pakistan for a long time but in recent times it has grown in manifold affecting the core of the educational system. This private tutor system will help to find tuition teachers from nearby locations. Teachers can also get a student just by logging.
 
- **_PHP based final Year Project Gratuation or Intermediate simple Project without BootsStrap with PPT PowerPoint File And also Report Included_**
+ **_PHP based Semester Project**
  
 Home Page
 
@@ -133,26 +143,3 @@ Microsoft Windows is a group of several proprietary graphical operating system f
 
 **Operating System**   Minimum Windows 10 0r Higher
 
-
-
-*My Social Accounts For any kind of help in this Project**
-
-
-Twitter
-
-https://twitter.com/naveedkhanworld
-
-GitHub
-
-https://github.com/naveedkhanworld
-
-Facebook
-
-https://facebook.com/naveeedkhanworld
-
-Instagram
-
-https://www.instagram.com/naveedkhanworld
-
-
-Email Address : naveedkhanworld@outlook.com
